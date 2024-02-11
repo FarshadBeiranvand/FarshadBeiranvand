@@ -4,9 +4,9 @@
 
 ## Mechanical Engineer passionate about biomechanics, data science and machine learning.
 
-- 🌱 Currently mastering advanced data analysis and deep learning techniques.
-- 💞️ Open to collaborations in predictive modeling, biomechanical analysis, and innovative healthcare/engineering data science projects.
-- 📫 Reach me at Farshadbeyranvand9@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: You'll often find me engaging in deep conversations about psychology and philosophy!
+-  Currently mastering advanced data analysis and deep learning techniques.
+-  Open to collaborations in predictive modeling, biomechanical analysis, and innovative healthcare/engineering data science projects.
+-  Reach me at Farshadbeyranvand9@gmail.com
+-  Pronouns: He/him
+-  Fun fact: You'll often find me engaging in deep conversations about psychology and philosophy!
 

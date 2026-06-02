@@ -7,5 +7,4 @@
 -  Currently mastering XFEM and advanced data analysis.
 -  Reach me at Farshadbeyranvand9@gmail.com
 -  Pronouns: He/him
--  Fun fact: You'll often find me engaging in deep conversations about psychology and philosophy!
 
